@@ -6,7 +6,7 @@
 
 <br/>
 
-<h4 align="center">I'm aravind <i>Ravi</i>, <i>Harry</i>. I am currently a Computer Science Undergraduate Student at <a href="https://www.iiits.ac.in" target="blank">IIITS</a>. I'm a tech enthusiast, open-source lover & Passionate Programmer. I have a passion for learning, explore as much as possible and sharing my knowledge with others as publicly as possible. Find out more about me & feel free to connect with me here: </h4>
+<h4 align="center">I'm aravind . I am currently a Computer Science Undergraduate Student at <a href="https://www.iiits.ac.in" target="blank">IIITS</a>. I'm a tech enthusiast, open-source lover & Passionate Programmer. I have a passion for learning, explore as much as possible and sharing my knowledge with others as publicly as possible. Find out more about me & feel free to connect with me here: </h4>
 
 <br/>
 
@@ -31,9 +31,9 @@
 
 - 🎯 2020 Goals: Be a better programmer and developer.
 
-- 👨‍💻 All of my projects are available [Here](ravireddy07.github.io) **[Under Construction]**
+- 👨‍💻 All of my projects are available [Here](https://aravindchalla.github.io) **[Under Construction]**
 
-- 📫 Can ping me at anytime through any of your possible way ([Contact Me](linkedin.com/in/aravindchalla)).
+- 📫 Can ping me at anytime through any of your possible way ([Contact Me](https://linkedin.com/in/aravindchalla)).
 
 - ⚡ Fun fact **I love Food, Code & Games.**
 
