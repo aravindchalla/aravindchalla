@@ -1,7 +1,8 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp; Hi, Glad to see you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/res/wave.gif" width="30px"></h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>&nbsp; Hi there, I'm Aravind. Glad to see you here! <img src="https://raw.githubusercontent.com/ravireddy07/ravireddy07/master/res/wave.gif" width="30px"></h1>
+
+<h3 align="center">A passionate Software and Web developer from India</h3>
 
 <br/>
-
 <img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="350">
 
 <br/>
@@ -20,7 +21,6 @@
 
 <br/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=aravindchalla" alt="aravindchalla" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/twitter/follow/aravindchalla_?color=1DA1F2&logo=twitter&style=flat-square" alt="aaravindchalla_" /> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/aravindchalla?color=1DA1F2&logo=github&style=flat-square" alt="aravindchalla" /> </p>
 <br/>
