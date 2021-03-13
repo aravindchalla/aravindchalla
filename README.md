@@ -26,7 +26,7 @@
 
 ### Connect with me:
 
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/aravindchalla_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ravi_reddy_07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/aravindchalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/aravindchallaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
