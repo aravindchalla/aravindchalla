@@ -24,6 +24,8 @@
 
 <br/>
 
+### Connect with me:
+
 <p align="center">
 <a href="https://twitter.com/aravindchalla_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ravi_reddy_07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://linkedin.com/in/aravindchalla" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ravireddy07" height="30" width="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,6 +35,7 @@
 
 <br/>
 
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" width="40" height="40"/> </a>
