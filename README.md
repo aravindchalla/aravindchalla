@@ -2,7 +2,7 @@
 
 <br/>
 
-<p align="center"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80" height="60"></p>
+<img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="350">
 
 <br/>
 
