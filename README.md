@@ -3,11 +3,24 @@
 <h3 align="center">A passionate Software and Web developer from India</h3>
 
 <br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravindchalla&color=dc143c" alt="aravindchalla" /></p>
 <img align='right' src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="350">
 
 <br/>
 
-<h4 align="center">I'm aravind . I am currently a Computer Science Undergraduate Student at <a href="https://www.iiits.ac.in" target="blank">IIITS</a>. I'm a tech enthusiast, open-source lover & Passionate Programmer. I have a passion for learning, explore as much as possible and sharing my knowledge with others as publicly as possible. Find out more about me & feel free to connect with me here: </h4>
+- 🌱 I’m currently learning **Node**
+
+- 👯 I’m looking to collaborate on **Projects**
+
+- 🥅 2021 Goals: **Land an Internship**
+
+- 👨‍💻 All of my projects are available at [https://github.com/aravindchalla](https://github.com/aravindchalla)
+
+- 💬 Ask me about **Node and Development**
+
+- 📫 How to reach me: [Gmail - @aravindchalla](mailto:aravind.challa1823@gmail.com), [LinkedIn - @AravindChalla](https://linkedin.com/in/aravindchalla)
+
+- ⚡ Fun fact **Hope is like a Soap! Use it daily! 🙂**
 
 <br/>
 
