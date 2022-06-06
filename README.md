@@ -8,15 +8,15 @@
 
 <br/>
 
-- 🌱 I’m currently learning **Node**
+- 🌱 I’m currently learning **MERN**
 
 - 👯 I’m looking to collaborate on **Projects**
 
-- 🎯 2021 Goals: **Land an Internship**
+- 🎯 2022 Goals: **Land an Internship**
 
 - 👨‍💻 All of my projects are available at [https://github.com/aravindchalla](https://github.com/aravindchalla)
 
-- 💬 Ask me about **Node and Development**
+- 💬 Ask me about **Node and Java**
 
 - 📫 How to reach me: [Gmail - @aravindchalla](mailto:aravind.challa1823@gmail.com), [LinkedIn - @AravindChalla](https://linkedin.com/in/aravindchalla)
 
